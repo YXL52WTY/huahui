@@ -352,9 +352,9 @@ a {
     line-height: 25px;
 }
 .bottom{
-    height: 150px;
+    height: 162px;
     background: #f5f5f5;
-    padding: 10px;
+    /*padding: 10px;*/
 }
 .bottom .icon img{
     width: 30px;
@@ -365,6 +365,8 @@ a {
     width: 120px;
     height: 30px;
     margin: 10px auto;
+    padding: 10px;
+
 /*background: blueviolet;*/
 
 }
